@@ -1,0 +1,4 @@
+dependencies:
+  math3d:
+    url: github.com/andersjohnsen/math3d
+    version: 1.0.1
